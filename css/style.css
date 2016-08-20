@@ -35,6 +35,9 @@ background: green;
 color: white;
   
 }
+button:hover{
+  color:red;
+}
 footer {
   background: blue;
   color: white;
